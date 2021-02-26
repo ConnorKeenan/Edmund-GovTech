@@ -1,8 +1,7 @@
 /*
  * Edmunds GovTech Problem1
- * Last update: 03/02/20
+ * Last update: 02/26/2021
  * @author: Connor Keenan
- * @version: 2020.03.02
  */
 import java.util.*;
 public class Problem1
